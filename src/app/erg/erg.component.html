@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Erg Break Level</h3>
+            <select id="level" #level class="form-control" style="width: auto" (change)="onSelected(level.value)" required>
+                <option value=0></option>
+                <option value=5>5</option>
+                <option value=10>10</option>
+                <option value=15>15</option>
+                <option value=20>20</option>
+                <option value=25>25</option>
+                <option value=30>30</option>
+                <option value=35>35</option>
+                <option value=40>40</option>
+                <option value=45>45</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <h3>Current Taps: {{tapCount}}</h3>
+            <h3> Rate: {{rate}} </h3>
+            Using Pot? <input type="checkbox" class="larger" (change)="update_rate($event)" #ch>
+        </div>
+        <div class="col-md-4">
+            <br>
+            <br>
+            <button id='roll' #roll class="btn button" (click)="do_erg(roll)" [disabled]="disabled">Roll</button>
+
+        </div>
+    </div>
+    <div class="row">
+        <h3>{{result}}</h3>
+    </div> 
+</div>

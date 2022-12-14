@@ -10,21 +10,25 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { EchostoneComponent } from './echostone/echostone.component';
+import { ErgComponent } from './erg/erg.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    EchostoneComponent
+    EchostoneComponent,
+    ErgComponent
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
     BsDropdownModule.forRoot(),
     TooltipModule.forRoot(),
-    ModalModule.forRoot()
+    ModalModule.forRoot(),
+    AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent, NavComponent, EchostoneComponent]
+  bootstrap: [AppComponent, NavComponent]
 })
 export class AppModule { }

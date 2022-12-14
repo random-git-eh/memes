@@ -1,0 +1,19 @@
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { RouterModule, Routes } from '@angular/router';
+import { EchostoneComponent } from './echostone/echostone.component';
+import { ErgComponent } from './erg/erg.component';
+
+
+const routes = [
+  {path: '', component: ErgComponent},
+  {path: 'erg', component: ErgComponent}
+]
+
+
+@NgModule({
+  //declarations: [],
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }

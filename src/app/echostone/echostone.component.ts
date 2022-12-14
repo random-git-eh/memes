@@ -12,7 +12,7 @@ export class EchostoneComponent implements OnInit {
   }
   counter = 0;
   onClick(){
-    this.counter += 1;
+    this.counter = Math.random()
   }
 
   constructor() { }
