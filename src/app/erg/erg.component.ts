@@ -24,7 +24,11 @@ export class ErgComponent implements OnInit {
   update_rate(event: Event){
     this.is_boosted = (<HTMLInputElement>event.target).checked;
     if(this.selected_level != 0){
-      this.onSelected(this.selected_level.toString());
+      if (this.is_boosted){
+        this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['boost'];
+      }else{
+        this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['base'];
+      }
     }
   }  
 
