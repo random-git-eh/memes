@@ -16,7 +16,9 @@
             </select>
         </div>
         <div class="col-md-4">
-            <h3>Current Taps: {{tapCount}}</h3>
+            <h3>Regular Taps: {{regular_taps}}</h3>
+            <h3>Boosted Taps: {{boosted_taps}}</h3>
+            <h3>Current Taps: {{total_taps}}</h3>
             <h3> Rate: {{rate}} </h3>
             Using Pot? <input type="checkbox" class="larger" (change)="update_rate($event)" #ch>
         </div>
@@ -30,4 +32,24 @@
     <div class="row">
         <h3>{{result}}</h3>
     </div> 
+    <div class="row">
+        <table class="table">
+            <thead>
+                <th>Level</th>
+                <th>Regular Attemps</th>
+                <th>Boost Attemps</th>
+                <th>Total Attemps</th>
+                <th>Total Dmfs</th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let d of data">
+                    <th scope="col">{{d['level']}}</th>
+                    <td>{{d['regular']}}</td>
+                    <td>{{d['boost taps']}}</td>
+                    <td>{{d['total']}}</td>
+                    <td>{{d['DMFs']}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>

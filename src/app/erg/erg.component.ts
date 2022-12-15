@@ -10,16 +10,18 @@ export class ErgComponent implements OnInit {
 
   constructor() { }
 
-  tapCount = 0;
+  total_taps = 0;
   totalDmfs = 0;
+  boosted_taps = 0;
+  regular_taps = 0;
   rate = 0;
   selected_level = 0;
 
   is_boosted = false;
-  is_checked = false;
   result = '';
   rng = 0;
   disabled = true;
+  data: any = []
 
   update_rate(event: Event){
     this.is_boosted = (<HTMLInputElement>event.target).checked;
@@ -42,8 +44,10 @@ export class ErgComponent implements OnInit {
     }else{
       this.rate = erg_rates[Number(value) as keyof typeof erg_rates]['base'];
     }
-    this.tapCount = 0; //reset on change
+    this.total_taps = 0; //reset on change
     this.totalDmfs = 0; //reset on change
+    this.boosted_taps = 0;
+    this.regular_taps = 0;
     this.result = '';
     this.disabled = false;
   }
@@ -57,8 +61,19 @@ export class ErgComponent implements OnInit {
     }else{
       this.result = 'FAIL!';
     }
-    this.tapCount += 1;
+    if (this.is_boosted){
+      this.boosted_taps += 1
+    }else{
+      this.regular_taps += 1
+    }
+    this.total_taps = this.boosted_taps + this.regular_taps;
     this.totalDmfs += 3;
+    if(this.result[0] === 'S'){
+      this.data.push(
+        {'level': this.selected_level, 'regular': this.regular_taps, 'boost taps': this.boosted_taps, 'total': this.total_taps, 'DMFs': this.totalDmfs}
+      )
+      console.log(this.data);
+    }
   }
 
 
