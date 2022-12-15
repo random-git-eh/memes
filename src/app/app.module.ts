@@ -12,13 +12,15 @@ import { NavComponent } from './nav/nav.component';
 import { EchostoneComponent } from './echostone/echostone.component';
 import { ErgComponent } from './erg/erg.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ErgKrComponent } from './erg-kr/erg-kr.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
     EchostoneComponent,
-    ErgComponent
+    ErgComponent,
+    ErgKrComponent
   ],
   imports: [
     BrowserModule,

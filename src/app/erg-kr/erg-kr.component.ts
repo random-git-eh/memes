@@ -2,11 +2,11 @@ import { Component, OnInit } from '@angular/core';
 import { erg_rates } from '../erg_rates';
 
 @Component({
-  selector: 'app-erg',
-  templateUrl: './erg.component.html',
-  styleUrls: ['./erg.component.css']
+  selector: 'app-erg-kr',
+  templateUrl: './erg-kr.component.html',
+  styleUrls: ['./erg-kr.component.css']
 })
-export class ErgComponent implements OnInit {
+export class ErgKrComponent implements OnInit {
 
   constructor() { }
 
@@ -15,6 +15,9 @@ export class ErgComponent implements OnInit {
   boosted_taps = 0;
   regular_taps = 0;
   rate = 0;
+
+  //levels and grades
+  selected_grade = ''
   selected_level = 0;
 
   is_boosted = false;
@@ -23,14 +26,21 @@ export class ErgComponent implements OnInit {
   disabled = true;
   data: any = []
 
+  set_base_rate(){
+    if (this.is_boosted){
+      this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['base'] + erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['boost'];
+    }else{
+      this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['base'];
+    }
+  }
+
+  
+
+
   update_rate(event: Event){
     this.is_boosted = (<HTMLInputElement>event.target).checked;
     if(this.selected_level != 0){
-      if (this.is_boosted){
-        this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['base'] + erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['boost'];
-      }else{
-        this.rate = erg_rates[Number(this.selected_level) as keyof typeof erg_rates]['base'];
-      }
+      
     }
   }  
 
@@ -77,9 +87,7 @@ export class ErgComponent implements OnInit {
   }
 
 
-
   ngOnInit(): void {
-    
   }
 
 }
