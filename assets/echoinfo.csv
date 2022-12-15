@@ -1,0 +1,559 @@
+Reforge Name,Max Level,Rate Percent,Echo Type,Actual
+Fire,1,0.05,Black,0.0005
+Ice,1,0.05,Black,0.0005
+Lightning,1,0.05,Black,0.0005
+Fragmentation Training EXP,10,0.09,Black,0.0009
+Water Cannon Training EXP,10,0.09,Black,0.0009
+Wind Blast Training EXP,10,0.09,Black,0.0009
+Flame Burst Training EXP,10,0.09,Black,0.0009
+Synthesis Training EXP,10,0.09,Black,0.0009
+Sand Burst Max Damage,20,0.09,Black,0.0009
+Sand Burst Min Damage,20,0.09,Black,0.0009
+Water Cannon Max Damage,20,0.09,Black,0.0009
+Water Cannon Min Damage,20,0.09,Black,0.0009
+Wind Blast Max Damage,20,0.09,Black,0.0009
+Wind Blast Min Damage,20,0.09,Black,0.0009
+Exploration Range,20,0.09,Black,0.0009
+Flame Burst Duration,20,0.09,Black,0.0009
+Flame Burst Max Damage,20,0.09,Black,0.0009
+Flame Burst Min Damage,20,0.09,Black,0.0009
+Shock Max Damage,20,0.09,Black,0.0009
+Shock Min Damage,20,0.09,Black,0.0009
+Hydra Transmutation Duration,20,0.09,Black,0.0009
+Hydra Transmutation Max Damage,20,0.09,Black,0.0009
+Hydra Transmutation Magic Protection Reduction,20,0.09,Black,0.0009
+Doppelganger Min Damage,20,0.09,Black,0.0009
+Dorcha Mastery Dorcha Skill Damage,20,0.09,Black,0.0009
+Chain Blade Mastery Max Damage,20,0.09,Black,0.0009
+Dorcha Snatch Dorcha Acquired,10,0.09,Black,0.0009
+Chain Impale Damage,20,0.09,Black,0.0009
+Raging Spike Damage,20,0.09,Black,0.0009
+Spinning Slasher Damage,20,0.09,Black,0.0009
+Chain Crush Damage,3,0.09,Black,0.0009
+Chain Sweep Damage,20,0.09,Black,0.0009
+Dorcha Conversion Cooldown,3,0.09,Black,0.0009
+Bachram Explosion Damage,20,0.09,Black,0.0009
+Max Attack Power,3,0.09,Black,0.0009
+Minimum Attack Power,3,0.09,Black,0.0009
+Maximum Stamina Increase,20,0.09,Black,0.0009
+Rain Casting Cloud Duration,20,0.31,Black,0.0031
+Rain Casting Cloud Range,20,0.31,Black,0.0031
+Rain Casting Cooldown Reduction,20,0.31,Black,0.0031
+Sand Burst Max Blindness Duration,20,0.31,Black,0.0031
+Shock Range,20,0.31,Black,0.0031
+Shock Effect Duration,20,0.31,Black,0.0031
+Crisis Escape Duration,20,0.31,Black,0.0031
+Hydra Transmutation Min Damage,6,0.31,Black,0.0031
+Hydra Transmutation Magic Defense Reduction,20,0.31,Black,0.0031
+Spider Shot Immobilization Time,20,0.31,Black,0.0031
+Spider Shot Crit Rate During Immobilization,20,0.31,Black,0.0031
+Doppelganger Max Damage,20,0.31,Black,0.0031
+Berserk Strength Increase,20,0.31,Black,0.0031
+Berserk Duration,20,0.31,Black,0.0031
+Combo: Counter Punch Damage,20,0.31,Black,0.0031
+Combo: Counter Punch Critical Damage,20,0.31,Black,0.0031
+Shockwave Min Damage,20,0.31,Black,0.0031
+Shockwave Max Damage,20,0.31,Black,0.0031
+Shockwave Cooldown Reset Chance,20,0.31,Black,0.0031
+Chain Blade Mastery Min Damage,20,0.31,Black,0.0031
+Raging Spike Attack Spread,20,0.31,Black,0.0031
+Spinning Slasher Effective Range,20,0.31,Black,0.0031
+Dorcha Conversion Leeched Dorcha,3,0.31,Black,0.0031
+Death Mark Mark Duration,3,0.31,Black,0.0031
+Death Mark Damage Amplification,20,0.31,Black,0.0031
+Chain Burst Duration,20,0.31,Black,0.0031
+Bachram Explosion Attack Range,20,0.31,Black,0.0031
+Attack Speed,5,0.31,Black,0.0031
+Protection,3,0.31,Black,0.0031
+Critical,3,0.31,Black,0.0031
+Metal Conversion Training EXP,10,0.92,Black,0.0092
+Gold Strike Min Damage,20,0.92,Black,0.0092
+Gold Strike Max Damage,20,0.92,Black,0.0092
+Water Cannon Range,20,0.92,Black,0.0092
+Flame Burst Attack Range,20,0.92,Black,0.0092
+Heat Buster Max Damage,20,0.92,Black,0.0092
+Heat Buster Min Damage,20,0.92,Black,0.0092
+Raging Spike Knockdown Range Increase,20,0.92,Black,0.0092
+Chain Crush Silence Duration,10,0.92,Black,0.0092
+Chain Sweep Effective Distance,20,0.92,Black,0.0092
+Chain Sweep Attack Range,20,0.92,Black,0.0092
+Anchor Rush Max Movement Range,20,0.92,Black,0.0092
+Defense,3,0.92,Black,0.0092
+Summon Golem Training EXP,10,1.23,Black,0.0123
+Evasion Stamina Consumption,20,1.23,Black,0.0123
+Summon Golem Golem Summon Duration,20,1.23,Black,0.0123
+Summon Golem Golem Defense,20,1.23,Black,0.0123
+Summon Golem Golem Protection,20,1.23,Black,0.0123
+Water Alchemy Efficiency,20,1.23,Black,0.0123
+Wind Alchemy Efficiency,20,1.23,Black,0.0123
+Fire Alchemy Efficiency,20,1.23,Black,0.0123
+Sand Burst Min Blindness Duration,20,1.23,Black,0.0123
+Wind Blast Attack Range,20,1.23,Black,0.0123
+Flame Burst Stun Duration,20,1.23,Black,0.0123
+Earth Alchemy Mastery Efficiency,20,1.23,Black,0.0123
+Dorcha Conversion HP Consumed,20,1.23,Black,0.0123
+Luck,3,2.05,Black,0.0205
+Poison Immunity ,5,2.05,Black,0.0205
+Petrification Immunity,5,2.05,Black,0.0205
+Stomp Defense,5,2.05,Black,0.0205
+Explosion Defense,5,2.05,Black,0.0205
+Evasion Total Cooldown Limit,20,2.05,Black,0.0205
+Summon Golem Golem Max HP,20,2.05,Black,0.0205
+Summon Golem Golem Damage,20,2.05,Black,0.0205
+Life Drain Life Absorbed,20,2.05,Black,0.0205
+Life Drain Damage,20,2.05,Black,0.0205
+Barrier Spikes Max HP,20,2.05,Black,0.0205
+Barrier Spikes Duration,20,2.05,Black,0.0205
+Sand Burst Blindness Enhancement,20,2.05,Black,0.0205
+Shock Stun Duration,20,2.05,Black,0.0205
+Rain Casting Water Cannon Damage,20,2.05,Black,0.0205
+Auto Melee Defense,5,2.05,Black,0.0205
+Earth Alchemy,3,2.05,Black,0.0205
+Auto Magic Deense,5,2.05,Black,0.0205
+Water Alchemy,3,2.05,Black,0.0205
+Wind Alchemy,3,2.05,Black,0.0205
+Balance Increase,3,2.05,Black,0.0205
+Fire Alchemy,3,2.05,Black,0.0205
+Auto Ranged Defense,5,2.05,Black,0.0205
+Max Injury Rate,3,2.05,Black,0.0205
+Maximum Mana Increase,20,2.05,Black,0.0205
+Maximum Health Increase,20,2.05,Black,0.0205
+Minimum Injury Rate,3,2.05,Black,0.0205
+Frozen Blast Duration,3,2.05,Black,0.0205
+Frozen Blast Range,3,2.05,Black,0.0205
+Magic Attack,3,0.09,Blue,0.0009
+Intelligence,3,0.09,Blue,0.0009
+Casting Speed,3,0.09,Blue,0.0009
+Dual Gun Max Damage,3,0.09,Blue,0.0009
+Lightning Bolt Training EXP,10,0.09,Blue,0.0009
+Thunder Training EXP,10,0.09,Blue,0.0009
+Icebolt Training EXP,10,0.09,Blue,0.0009
+Ice Spear Training EXP,10,0.09,Blue,0.0009
+Firebolt Training EXP,10,0.09,Blue,0.0009
+Fireball Training EXP,10,0.09,Blue,0.0009
+Party Healing Training EXP,10,0.09,Blue,0.0009
+Hailstorm Training EXP,10,0.09,Blue,0.0009
+Healing Training EXP,10,0.09,Blue,0.0009
+Thunder Max Damage,20,0.09,Blue,0.0009
+Thunder Min Damage,20,0.09,Blue,0.0009
+Ice Spear Max Damage,20,0.09,Blue,0.0009
+Ice Spear Min Damage,20,0.09,Blue,0.0009
+Fireball Max Damage,20,0.09,Blue,0.0009
+Fireball Min Damage,20,0.09,Blue,0.0009
+Party Healing Defense,20,0.09,Blue,0.0009
+Hailstorm Max Damage,20,0.09,Blue,0.0009
+Hailstorm Min Damage,20,0.09,Blue,0.0009
+Lightning Rod Max Damage,20,0.09,Blue,0.0009
+Lightning Rod Damage when Fully Charged,20,0.09,Blue,0.0009
+Lightning Rod Cooldown,10,0.09,Blue,0.0009
+Mana Shield Damage Reduction Rate,20,0.19,Blue,0.0019
+Playing Instrument Effect,20,0.19,Blue,0.0019
+Fire Mastery Damage,20,0.19,Blue,0.0019
+Firebolt Max Damage,20,0.19,Blue,0.0019
+Dischord Effect Radius,6,0.19,Blue,0.0019
+Musical Knowledge Inspiring Rate,6,0.19,Blue,0.0019
+Musical Knowledge Normal Performance Effect,10,0.19,Blue,0.0019
+Musical Knowledge Excellent Performance Effect,10,0.19,Blue,0.0019
+Musical Knowledge Inspiring Performance Effect,10,0.19,Blue,0.0019
+Harvest Song Gathering Speed,6,0.19,Blue,0.0019
+March Song Walking Speed,6,0.19,Blue,0.0019
+March Song Mount Movement Speed,6,0.19,Blue,0.0019
+Shooting Rush Damage,20,0.19,Blue,0.0019
+Shooting Rush Attack Spread,20,0.19,Blue,0.0019
+Shooting Rush Attack Distance,20,0.19,Blue,0.0019
+Bullet Storm Maximum Damage,20,0.19,Blue,0.0019
+Bullet Storm Max Spread,20,0.19,Blue,0.0019
+Bullet Storm Attack Range,20,0.19,Blue,0.0019
+Way of the Gun Duration,20,0.19,Blue,0.0019
+Way of the Gun Attack Speed,20,0.19,Blue,0.0019
+Lightning Rod Min Damage,20,0.19,Blue,0.0019
+Inspiration Mana Recovery,20,0.19,Blue,0.0019
+Inspiration Cooldown,20,0.19,Blue,0.0019
+Snap Cast Duration,20,0.19,Blue,0.0019
+Lightning Bolt Wand Effectiveness,20,0.76,Blue,0.0076
+Blaze Damage,20,0.76,Blue,0.0076
+Ice Spear Explosion Range,20,0.76,Blue,0.0076
+Dischord Debuff Duration,6,0.76,Blue,0.0076
+Vivace Duration,6,0.76,Blue,0.0076
+Enduring Melody Effect Duration,6,0.76,Blue,0.0076
+Enduring Melody Defense,6,0.76,Blue,0.0076
+Enduring Melody Protection,6,0.76,Blue,0.0076
+Lullaby Duration,6,0.76,Blue,0.0076
+Lullaby Max Sleep Targets,6,0.76,Blue,0.0076
+Lullaby Basic Sleep Chance,6,0.76,Blue,0.0076
+Battlefield Overature Duration,6,0.76,Blue,0.0076
+Harvest Song Buff Loading Time,6,0.76,Blue,0.0076
+Harvest Song Duration,6,0.76,Blue,0.0076
+March Song Duration,6,0.76,Blue,0.0076
+Dual Gun Min Damage,3,1.32,Blue,0.0132
+Natural Shield Duration,20,1.32,Blue,0.0132
+Lightning Mastery Damage,20,1.32,Blue,0.0132
+Lightning Shield Duration,20,1.32,Blue,0.0132
+Lightning Bolt Max Damage,20,1.32,Blue,0.0132
+Lightning Bolt Min Damage,20,1.32,Blue,0.0132
+Fusion Bolt Damage,20,1.32,Blue,0.0132
+Bolt Mastery Damage,20,1.32,Blue,0.0132
+Blaze Explosion Damage,20,1.32,Blue,0.0132
+Ice Mastery Damage,20,1.32,Blue,0.0132
+Ice Shield Duration,20,1.32,Blue,0.0132
+Ice Bolt Max Damage,20,1.32,Blue,0.0132
+Ice Bolt Min Damage,20,1.32,Blue,0.0132
+Fire Shield Duration,20,1.32,Blue,0.0132
+Firebolt Min Damage,20,1.32,Blue,0.0132
+Dischord Movement Speed Down,10,1.32,Blue,0.0132
+Vivace Magic Charging Speed,6,1.32,Blue,0.0132
+Vivace Alchemy Charging Speed,6,1.32,Blue,0.0132
+Vivace Attack Speed,6,1.32,Blue,0.0132
+Musical Knowledge Excellent Rate,6,1.32,Blue,0.0132
+Enduring Melody Effect Radius,6,1.32,Blue,0.0132
+Enduring Melody Mana Recovery Speed,10,1.32,Blue,0.0132
+Enduring Melody Stamina Recovery Speed,10,1.32,Blue,0.0132
+Battlefield Overature Effect Radius,6,1.32,Blue,0.0132
+Harvest Song Effect Radius,6,1.32,Blue,0.0132
+March Song Effect Radius,6,1.32,Blue,0.0132
+Playing Instrument Training EXP,10,1.89,Blue,0.0189
+Enthralling Performance Training EXP,10,1.89,Blue,0.0189
+Natural Shield Cooldown,20,1.89,Blue,0.0189
+Lightning Shield Cooldown,20,1.89,Blue,0.0189
+Meditation Mana Recovery Speed,20,1.89,Blue,0.0189
+Blaze Explosion Radius,20,1.89,Blue,0.0189
+Ice Shield Cooldown,20,1.89,Blue,0.0189
+Ice Spear Attack Radius,20,1.89,Blue,0.0189
+Playing Instrument Success Rate,20,1.89,Blue,0.0189
+Fire Shield Cooldown,20,1.89,Blue,0.0189
+Hailstorm Range,20,1.89,Blue,0.0189
+Enthralling Performance Radius Applied,20,1.89,Blue,0.0189
+Enthralling Performance Cooldown,20,1.89,Blue,0.0189
+Enthralling Performance Power Boost,20,1.89,Blue,0.0189
+Healing HP Recovery,20,1.89,Blue,0.0189
+Dischord Instant Damage,10,1.89,Blue,0.0189
+Dischord Continuous Damage,10,1.89,Blue,0.0189
+Lullaby Bonus Sleep Damage,5,1.89,Blue,0.0189
+Reload Time Reduction,20,1.89,Blue,0.0189
+Flash Launcher Damage,20,1.89,Blue,0.0189
+Grapple Shot Damage,20,1.89,Blue,0.0189
+Bullet Slide Damage,20,1.89,Blue,0.0189
+Bullet Storm Damage Per Shot,20,1.89,Blue,0.0189
+Bullet Storm Max Targets,10,1.89,Blue,0.0189
+Party Healing HP Recovery,20,1.89,Blue,0.0189
+Strength,3,0.11,Red,0.0011
+Charge Training EXP,10,0.11,Red,0.0011
+Defense Training EXP,10,0.11,Red,0.0011
+Lance Charge Training EXP,10,0.11,Red,0.0011
+Lance Counter Training EXP,10,0.11,Red,0.0011
+Stomp Training EXP,10,0.11,Red,0.0011
+Windmill Training EXP,10,0.11,Red,0.0011
+Assault Slash Training EXP,20,0.11,Red,0.0011
+Assault Slash Damage,20,0.11,Red,0.0011
+Charge Max Distance,20,0.11,Red,0.0011
+Charge Cooldown ,20,0.11,Red,0.0011
+Lance Charge Horseback Damage,20,0.11,Red,0.0011
+Lance Charge Main Target Damage,20,0.11,Red,0.0011
+Stomp Attack Range,20,0.11,Red,0.0011
+Smash Damage,20,0.11,Red,0.0011
+Charge Damage,20,0.11,Red,0.0011
+Windmill Attack Range,20,0.11,Red,0.0011
+Windmill Damage,20,0.11,Red,0.0011
+Taunt Lure Enhancement,20,0.11,Red,0.0011
+Final Hit Teleport Distance,20,0.11,Red,0.0011
+Final Hit Duration,20,0.11,Red,0.0011
+Final Hit Max Damage,20,0.11,Red,0.0011
+Final Hit Min Damage,20,0.11,Red,0.0011
+Heavy Armor Mastery Bonus Protection,10,0.11,Red,0.0011
+Heavy Armor Mastery Bonus Magic Protection,10,0.11,Red,0.0011
+Light Armor Mastery Bonus Protection,10,0.11,Red,0.0011
+Light Armor Mastery Bonus Magic Protection,10,0.11,Red,0.0011
+Final Strike Teleport Distance,20,0.11,Red,0.0011
+Final Strike Duration,20,0.11,Red,0.0011
+Final Strike Cooldown,20,0.11,Red,0.0011
+Stampede Cooldown,20,0.11,Red,0.0011
+Stampede Chained Close Combat Skill Enhance,20,0.11,Red,0.0011
+Counterattack Training EXP,10,0.55,Red,0.0055
+Charge Able to Charge Without Shields,1,0.55,Red,0.0055
+Lance Mastery Max Damage,20,0.55,Red,0.0055
+Blunt Mastery Maximum Damage,20,0.55,Red,0.0055
+Sword Mastery Maximum Damage,20,0.55,Red,0.0055
+Axe Mastery Max Damage,20,0.55,Red,0.0055
+Combat Mastery Max Damage,20,0.55,Red,0.0055
+Final Hit Cooldown,20,0.55,Red,0.0055
+Rage Impact Duration,20,0.55,Red,0.0055
+Rage Impact Stun Duration,20,0.55,Red,0.0055
+Rage Impact Cooldown,20,0.55,Red,0.0055
+Shield Mastery Bonus Defense,10,0.55,Red,0.0055
+Shield Mastery Bonus Protection,10,0.55,Red,0.0055
+Shield Mastery Bonus Magic Defense,10,0.55,Red,0.0055
+Shield Mastery Bonus Magic Protection,10,0.55,Red,0.0055
+Shield Mastery Melee Auto Defense,10,0.55,Red,0.0055
+Shield Mastery Range Auto Defense,10,0.55,Red,0.0055
+Shield Mastery Magic Auto Defense,10,0.55,Red,0.0055
+Heavy Armor Mastery Bonus Defense,10,0.55,Red,0.0055
+Heavy Armor Mastery Bonus Magic Defense,10,0.55,Red,0.0055
+Heavy Armor Mastery Auto Melee,10,0.55,Red,0.0055
+Heavy Armor Mastery Auto Ranged,10,0.55,Red,0.0055
+Heavy Armor Mastery Auto Magic,10,0.55,Red,0.0055
+Light Armor Mastery Bonus Defense,10,0.55,Red,0.0055
+Light Armor Mastery Bonus Magic Defense,10,0.55,Red,0.0055
+Critical Hit Training EXP,10,1.53,Red,0.0153
+Throwing Attack Damage,20,1.53,Red,0.0153
+Lance Mastery Min Damage,20,1.53,Red,0.0153
+Lance Charge Charge Damage,20,1.53,Red,0.0153
+Blunt Mastery Minimum Damage,20,1.53,Red,0.0153
+Axe Mastery Min Damage,20,1.53,Red,0.0153
+Wind Guard Protection,20,1.53,Red,0.0153
+Wind Guard Duration,20,1.53,Red,0.0153
+Combat Mastery Min Damage,20,1.53,Red,0.0153
+Taunt Range,20,1.53,Red,0.0153
+Taunt Max Monsters Lured,20,1.53,Red,0.0153
+Sword Mastery Minimum Damge,20,1.54,Red,0.0154
+Assault Slash Cooldown,20,1.97,Red,0.0197
+Charge Minimum Range,3,1.97,Red,0.0197
+Lance Charge Horseback Charge Distance,20,1.97,Red,0.0197
+Lance Charge Max Distance,20,1.97,Red,0.0197
+Lance Charge Cooldown,5,1.97,Red,0.0197
+Lance Counter Critical Damage	,5,1.97,Red,0.0197
+Blunt Mastery Balance,20,1.97,Red,0.0197
+Sword Mastery Balance,20,1.97,Red,0.0197
+Smash Critical Success,5,1.97,Red,0.0197
+Axe Mastery Balance,20,1.97,Red,0.0197
+Wind Guard Cooldown Decreased,20,1.97,Red,0.0197
+Combat Mastery Balance,20,1.97,Red,0.0197
+Taunt Duration,20,1.97,Red,0.0197
+Taunt Min Monsters Lured,20,1.97,Red,0.0197
+Throwing Attack EXP,10,2.84,Red,0.0284
+Charge Ranged Damage Reduction Rate,20,2.84,Red,0.0284
+Defense Protection Upon Success,20,2.84,Red,0.0284
+Defense Defense Rate When Successful,20,2.84,Red,0.0284
+Lance Mastery Critical,5,2.84,Red,0.0284
+Lance Charge Horseback Charge Range Width,20,2.84,Red,0.0284
+Lance Charge Range Width (Human),20,2.84,Red,0.0284
+Lance Charge Range Width (Giant),20,2.84,Red,0.0284
+Lance Counter Opponent Damage Reflection Rate,20,2.84,Red,0.0284
+Blunt Mastery Critical,5,2.84,Red,0.0284
+Sword Mastery Critical,5,2.84,Red,0.0284
+Axe Mastery Critical,5,2.84,Red,0.0284
+"Counter Attack When Successful, Opponent Rate",20,2.84,Red,0.0284
+Awakening of Light Training EXP,10,0.1,Silver,0.001
+Daemon of Physis Duration,20,0.1,Silver,0.001
+Daemon of Physis [Transforming] Max Damage,20,0.1,Silver,0.001
+Daemon of Physis [Transforming] Min Damage,20,0.1,Silver,0.001
+Body of Chaos [Transforming] STR,20,0.1,Silver,0.001
+Sword of Order [Transforming] Injury Rate,20,0.1,Silver,0.001
+Sword of Order [Transforming] Damage,20,0.1,Silver,0.001
+Soul of Chaos Duration,20,0.1,Silver,0.001
+Spirit of Order Duration,20,0.1,Silver,0.001
+Elven Magic Missile Ranged Attack Damage,20,0.1,Silver,0.001
+Fury of Connous Duration,20,0.1,Silver,0.001
+Charging Strike Damage,20,0.1,Silver,0.001
+Focused Fist Damage,20,0.1,Silver,0.001
+Focused Fist Charge Time Reduction,6,0.1,Silver,0.001
+Spinning Uppercut Damage Increase,20,0.1,Silver,0.001
+Spinning Uppercut Cooldown ,6,0.1,Silver,0.001
+Somersault Kick Cooldown,6,0.1,Silver,0.001
+Somersault Kick Daze Duration,20,0.1,Silver,0.001
+Drop Kick Cooldown,6,0.1,Silver,0.001
+Drop Kick Splash Range (Width),20,0.1,Silver,0.001
+Drop Kick Splash Damage,20,0.1,Silver,0.001
+Pummel Damage,20,0.1,Silver,0.001
+Pummel Cooldown,6,0.1,Silver,0.001
+Fynn Crafting Training EXP,10,0.1,Silver,0.001
+Fynn Crafting Item Bonus upon Great Success,3,0.1,Silver,0.001
+Daemon of Physis Training EXP,10,0.27,Silver,0.0027
+Soul of Chaos Training EXP,10,0.27,Silver,0.0027
+Spirit of Order Training EXP,10,0.27,Silver,0.0027
+Fury of Connous Training EXP,10,0.27,Silver,0.0027
+Life of Physis [Transforming] Strength,6,0.27,Silver,0.0027
+Eye of Order [Transforming] Dexterity,6,0.27,Silver,0.0027
+Control of Darkness Duration,6,0.27,Silver,0.0027
+Power of Order [Transforming] Will,6,0.27,Silver,0.0027
+Power of Order [Transforming] Strength,6,0.27,Silver,0.0027
+Fury of Connous [Transforming] STR,6,0.27,Silver,0.0027
+Spinning Uppercut Protection Reduction,5,0.27,Silver,0.0027
+Spinning Uppercut Def/Prot Reduction Chance,20,0.27,Silver,0.0027
+Drop Kick Damage,20,0.27,Silver,0.0027
+Knuckle Mastery Max Damage,20,0.27,Silver,0.0027
+Shuriken Mastery Max Damage,20,0.27,Silver,0.0027
+Kunai Storm Damage,20,0.27,Silver,0.0027
+Explosive Kunai Speed Debuff Duration,20,0.27,Silver,0.0027
+Shadow Cloak Duration,20,0.27,Silver,0.0027
+Smokescreen Def + Magic Defense Reduction,20,0.27,Silver,0.0027
+Sakura Abyss Attack Range,20,0.27,Silver,0.0027
+Fynn Crafting Great Success Rate,10,0.34,Silver,0.0034
+Fynn Crafting Item Crafting Buff Duration,10,0.34,Silver,0.0034
+Wings of Rage Attack Range,20,0.68,Silver,0.0068
+Wings of Rage Cooldown,20,0.68,Silver,0.0068
+Mind of Chaos [Transforming] Critical,6,0.68,Silver,0.0068
+Awakening of Light Cooldown,20,0.68,Silver,0.0068
+Sharpness of Connous [Transforming] Critical,6,0.68,Silver,0.0068
+Soul of Chaos [Transforming] Max Stamina,20,0.68,Silver,0.0068
+Soul of Chaos [Transforming] STR,20,0.68,Silver,0.0068
+Spell of Physis [Transforming] Critical,6,0.68,Silver,0.0068
+Spirit of Order [Transforming] Max HP,20,0.68,Silver,0.0068
+Spear of Light Range,20,0.68,Silver,0.0068
+Shield of Physis [Transforming] Max HP,20,0.68,Silver,0.0068
+Wings of Eclipse Cooldown,20,0.68,Silver,0.0068
+Fury of Light Cooldown,20,0.68,Silver,0.0068
+Fury of Connous [Transforming] Max Injury Rate,20,0.68,Silver,0.0068
+Fury of Connous [Transforming] Min Injury Rate,20,0.68,Silver,0.0068
+Fury of Connous [Transforming] Max HP Amplify,20,0.68,Silver,0.0068
+Fury of Connous [Transforming] Max Stamina,20,0.68,Silver,0.0068
+Hands of Chaos [Transforming] Injury Rate,20,0.68,Silver,0.0068
+Hands of Chaos [Transforming] Dex,20,0.68,Silver,0.0068
+Focused Fist Cooldown Decreased,3,0.68,Silver,0.0068
+Combo Mastery Damage,10,0.68,Silver,0.0068
+Knuckle Mastery Min Damage,20,0.68,Silver,0.0068
+Knuckle Mastery Balance,20,0.68,Silver,0.0068
+Respite HP Recovery,5,0.68,Silver,0.0068
+Will,3,1.03,Silver,0.0103
+Life of Physis [Transforming] Stamina,20,1.03,Silver,0.0103
+Life of Physis [Transforming] Will,20,1.03,Silver,0.0103
+Wings of Rage Range,20,1.03,Silver,0.0103
+Mind of Connous [Transforming] Max MP,20,1.03,Silver,0.0103
+Sharpness of Connous [Transforming] DEX,20,1.03,Silver,0.0103
+Soul of Chaos [Transforming] Max MP,20,1.03,Silver,0.0103
+Spell of Physis [Transforming] INT,20,1.03,Silver,0.0103
+Spirit of Order [Transforming] Max Stamina,20,1.03,Silver,0.0103
+Spear of Light Explosion Range,20,1.03,Silver,0.0103
+Armor of Connous [Transforming] Defense,20,1.03,Silver,0.0103
+Elven Magic Missile Magic Damage,20,1.03,Silver,0.0103
+Giant Full Swing Damage,20,1.03,Silver,0.0103
+Giant Full Swing Attack Range,20,1.03,Silver,0.0103
+Giant Full Swing Exclusive Weapon Range,20,1.03,Silver,0.0103
+Fury of Light Attack Range,20,1.03,Silver,0.0103
+Charging Strike Cooldown,3,1.03,Silver,0.0103
+Charging Strike Range,3,1.03,Silver,0.0103
+Focused Fist Charge Range,3,1.03,Silver,0.0103
+Spinning Uppercut Defense Reduction,10,1.03,Silver,0.0103
+Somersault Kick Damage,20,1.03,Silver,0.0103
+Somersault Kick Daze Chance,20,1.03,Silver,0.0103
+Drop Kick Splash Range,20,1.03,Silver,0.0103
+Respite Stamina Recovery,5,1.03,Silver,0.0103
+Spear of Light Damage,20,1.03,Silver,0.0103
+Wings of Rage Damage,20,2.05,Silver,0.0205
+Mind of Connous [Transforming] INT,20,2.05,Silver,0.0205
+Mind of Chaos [Transforming] INT,20,2.05,Silver,0.0205
+Shadow Spirit Damage,20,2.05,Silver,0.0205
+Spell of Physis [Transforming] Max MP,20,2.05,Silver,0.0205
+Spirit of Order [Transforming] Max MP,20,2.05,Silver,0.0205
+Spirit of Order [Transforming] Defense,20,2.05,Silver,0.0205
+Spirit of Order [Transforming] Protection,20,2.05,Silver,0.0205
+Shield of Physis [Transforming] Defense,20,2.05,Silver,0.0205
+Shield of Physis [Transforming] Protection,20,2.05,Silver,0.0205
+Armor of Connous [Transforming] Protection,20,2.05,Silver,0.0205
+Armor of Connous [Transforming] Will,20,2.05,Silver,0.0205
+Giant Full Swing Exclusive Weapon Damage,20,2.05,Silver,0.0205
+Fury of Light Damage,20,2.05,Silver,0.0205
+Fury of Connous [Transforming] Max Damage,20,2.05,Silver,0.0205
+Fury of Connous [Transforming] Min Damage,20,2.05,Silver,0.0205
+Shuriken Mastery Min Damage,20,2.05,Silver,0.0205
+Shuriken Charge Splash Range,20,2.05,Silver,0.0205
+Kunai Storm Attack Range,20,2.05,Silver,0.0205
+Explosive Kunai Explosive Damage,20,2.05,Silver,0.0205
+Explosive Kunai Quantity,3,2.05,Silver,0.0205
+Shadow Bind Duration,20,2.05,Silver,0.0205
+Shadow Cloak Tornado Damage,20,2.05,Silver,0.0205
+Smokescreen Smoke Range,20,2.05,Silver,0.0205
+Effective Range,3,0.05,Yellow,0.0005
+Dexterity,3,0.1,Yellow,0.001
+Fishing Training EXP,10,0.1,Yellow,0.001
+Carpentry Training EXP,10,0.1,Yellow,0.001
+Weaving Training EXP,10,0.1,Yellow,0.001
+Blacksmithing Training EXP,10,0.1,Yellow,0.001
+Metallurgy Training EXP,10,0.1,Yellow,0.001
+Cooking Training EXP,10,0.1,Yellow,0.001
+Refining Training EXP,10,0.1,Yellow,0.001
+Taming Animals Training EXP,10,0.1,Yellow,0.001
+Weaving Training EXP,10,0.1,Yellow,0.001
+Handicraft Training EXP,10,0.1,Yellow,0.001
+Hillwen Engineering Training EXP,10,0.1,Yellow,0.001
+Magic Craft Training EXP,10,0.1,Yellow,0.001
+Ranged Attack Balance,20,0.1,Yellow,0.001
+Ranged Attack Min Damage,20,0.1,Yellow,0.001
+Mirage Missile Max Damage,20,0.1,Yellow,0.001
+Mirage Missile Min Damage,20,0.1,Yellow,0.001
+Arrow Revolver Max Damage,20,0.1,Yellow,0.001
+Arrow Revolver Min Damage,20,0.1,Yellow,0.001
+Metallurgy Amount gathered per attempt,3,0.1,Yellow,0.001
+Crash Shot Projectile Damage,20,0.1,Yellow,0.001
+Crash Shot Max Fragments,10,0.1,Yellow,0.001
+Crash Shot Fragment Damage,20,0.1,Yellow,0.001
+Final Shot Duration,20,0.1,Yellow,0.001
+Arrow Revolver Range,20,0.31,Yellow,0.0031
+Fishing Chance to Lure,20,0.31,Yellow,0.0031
+Fishing Auto Success Rate,20,0.31,Yellow,0.0031
+Fishing Automatic Fishing Catch Size,20,0.31,Yellow,0.0031
+Fishing Fish Size,20,0.31,Yellow,0.0031
+Ranged Attack Max Damage,20,0.31,Yellow,0.0031
+Magnum Shot Damage,20,0.31,Yellow,0.0031
+Bow Mastery Max Damage,20,0.31,Yellow,0.0031
+Blacksmithing Success Rate,20,0.31,Yellow,0.0031
+Support Shot Damage,6,0.31,Yellow,0.0031
+Metallurgy Success Rate,20,0.31,Yellow,0.0031
+Cooking Quality Bonus,20,0.31,Yellow,0.0031
+Carpentry Wood Chopping Success Rate,6,0.31,Yellow,0.0031
+Tailoring Success Rate,20,0.31,Yellow,0.0031
+Tailoring Quality Bonus,20,0.31,Yellow,0.0031
+Crash Shot Max Fragment Range,20,0.31,Yellow,0.0031
+Crossbow Mastery Max Damage,20,0.31,Yellow,0.0031
+Crossbow Mastery Critical,5,0.31,Yellow,0.0031
+Handicraft Success Rate,20,0.31,Yellow,0.0031
+Carpentry Max Bow Quality Bonus,20,0.31,Yellow,0.0031
+Act 6: Crisis Casting Time,6,0.31,Yellow,0.0031
+Act 7: Climactic Crash Casting Time,10,0.31,Yellow,0.0031
+Carpentry Min Bow Quality Bonus,20,0.31,Yellow,0.0031
+Rare Mineralogy Bonus Success Rate,20,0.31,Yellow,0.0031
+Rare Mineralogy Bonus Gathering Rate,20,0.31,Yellow,0.0031
+Shyllien Ecology Bonus Success Rate,20,0.31,Yellow,0.0031
+Shyllien Ecology Bonus Gathering Rate,20,0.31,Yellow,0.0031
+Urgent Shot Damage,20,0.31,Yellow,0.0031
+Urgent Shot Cooldown,20,0.31,Yellow,0.0031
+Urgent Shot Aiming Speed Bonus,20,0.31,Yellow,0.0031
+Catering Install Duration,20,0.31,Yellow,0.0031
+Catering Consumption Duration,20,0.31,Yellow,0.0031
+Marionette Min Damage,3,0.96,Yellow,0.0096
+Marionette Max Damage,3,0.96,Yellow,0.0096
+Marionette Max Health,3,0.96,Yellow,0.0096
+Marionette Defense,3,0.96,Yellow,0.0096
+Marionette Protection,3,0.96,Yellow,0.0096
+Marionette Magic Defense,3,0.96,Yellow,0.0096
+Mirage Missile Effect Range,20,0.96,Yellow,0.0096
+Bow Mastery Min Damage,20,0.96,Yellow,0.0096
+Refining Success Rate,20,0.96,Yellow,0.0096
+Crossbow Mastery Min Damage,20,0.96,Yellow,0.0096
+Act 2: Threshold Cutter Critical Rate Boost,20,0.96,Yellow,0.0096
+Control Marionette Linked Marionette Min Damage,20,0.96,Yellow,0.0096
+Control Marionette Linked Marionette Max Damage,20,0.96,Yellow,0.0096
+Control Marionette Linked Marionette Critical ,20,0.96,Yellow,0.0096
+Control Marionette Linked Marionette Balance,20,0.96,Yellow,0.0096
+Herbalism Training EXP,10,1.31,Yellow,0.0131
+Final Shot Cooldown,20,1.31,Yellow,0.0131
+Act 1: Inciting Incident Stun Time,10,1.31,Yellow,0.0131
+Act 4: Rising Action Radius,20,1.31,Yellow,0.0131
+Act 6: Crisis Radius,20,1.31,Yellow,0.0131
+Act 7: Climactic Crash Charge Width,10,1.31,Yellow,0.0131
+Act 9: Invigorating Encore Duration,20,1.31,Yellow,0.0131
+Puppet's Snare Stun Time,20,1.31,Yellow,0.0131
+Puppet's Snare Range,20,1.31,Yellow,0.0131
+Wire Pull Range,20,1.31,Yellow,0.0131
+Act 6: Crisis Damage Magnification,20,2.61,Yellow,0.0261
+Collection Quantity,3,2.62,Yellow,0.0262
+Collection Speed,3,2.62,Yellow,0.0262
+Collection Success Rate,3,2.62,Yellow,0.0262
+Act 2: Threshold Cutter Damage Boost,3,2.62,Yellow,0.0262
+Production Mastery Training EXP,10,2.62,Yellow,0.0262
+Ranged Attack Aim Speed,20,2.62,Yellow,0.0262
+Weaving Success Rate,20,2.62,Yellow,0.0262
+Taming Wild Animals Range,20,2.62,Yellow,0.0262
+Taming Wild Animals Success Rate,20,2.62,Yellow,0.0262
+Taming Wild Animals Duration,20,2.62,Yellow,0.0262
+Cooking Effect Duration,20,2.62,Yellow,0.0262
+Carpentry Bow Production Time,20,2.62,Yellow,0.0262
+Act 1: Inciting Incident Damage Magnification,20,2.62,Yellow,0.0262
+Act 4: Rising Action Damage Magnification,20,2.62,Yellow,0.0262
+Act 7: Climactic Crash Damage Magnification,20,2.62,Yellow,0.0262
+Act 9: Invigorating Encore Min Damage Bonus,20,2.62,Yellow,0.0262
+Act 9: Invigorating Encore Max Damage Bonus,20,2.62,Yellow,0.0262
+Puppet's Snare Damage Over Time After Stun,20,2.62,Yellow,0.0262
+Wire Pull Damage Magnification,20,2.62,Yellow,0.0262
+Transformation Mastery Health Bonus,6,2.62,Yellow,0.0262
+Transformation Mastery Defense Bonus,6,2.62,Yellow,0.0262
+Transformation Mastery Magic Defense Bonus,6,2.62,Yellow,0.0262
