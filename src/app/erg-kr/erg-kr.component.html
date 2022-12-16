@@ -1,10 +1,24 @@
 
+
+
 <div class="container">
+    <h5>
+        I am assuming erg pot boost is a flat boost across all grades, let me know if this is wrong and you can provide better info.
+    </h5>
     <div class="row">
         <div class="col-md-4">
+            <h3>Erg Grade</h3>
+            <select id="grade" #grade class="form-control" style="width: auto;" (change)="on_select_grade()" [(ngModel)] = 'selected_grade'>
+                <option value="" disabled selected="selected"></option>
+                <option value="B">B</option>
+                <option value="A">A</option>
+                <option value="S">S</option>
+            </select>
+
             <h3>Erg Break Level</h3>
-            <select id="level" #level class="form-control" style="width: auto" (change)="onSelected(level.value)" required>
-                <option value=0></option>
+            <select id="level" #level class="form-control" style="width: auto" required [disabled]="disabled_level" [(ngModel)] = "selected_level" (change)="on_select_level()"
+                (select)="on_select_level()">
+                <option value=0 disabled selected="selected"></option>
                 <option value=5>5</option>
                 <option value=10>10</option>
                 <option value=15>15</option>
@@ -19,24 +33,32 @@
         <div class="col-md-4">
             <h3>Regular Taps: {{regular_taps}}</h3>
             <h3>Boosted Taps: {{boosted_taps}}</h3>
-            <h3>Current Taps: {{total_taps}}</h3>
-            <h3> Rate: {{rate}} </h3>
-            Using Pot? <input type="checkbox" class="larger" (change)="update_rate($event)" #ch>
+            <h3>Total Taps: {{total_taps}}</h3>
+            <h3>Total Rate: {{success_rate}} ({{success_rate*100 | number: '.0-5'}}%)</h3> 
+            <h4>current failstack rate added: {{failstack_rate}} ({{failstack_rate * 100 | number: '.0-5'}}%) </h4> 
+            Using Pot? <input type="checkbox" class="larger" [(ngModel)] = "is_boosted" (change)="on_select_boost()" [disabled]="disabled_button">
         </div>
         <div class="col-md-4">
             <br>
             <br>
-            <button id='roll' #roll class="btn button" (click)="do_erg(roll)" [disabled]="disabled">Roll</button>
+            <button id='roll' #roll class="btn button" [disabled]="disabled_button" (click)="do_erg()">Roll</button>
 
         </div>
     </div>
-    <div class="row">
-        <h3>{{result}}</h3>
+    <div class="row" *ngIf="result.startsWith('C'); else fail_erg">
+        <h3 style="color: red;">{{result}}</h3>
     </div> 
+
+    <ng-template #fail_erg>
+        <h3 style="color: purple">{{result}}</h3>
+    </ng-template>
+
     <div class="row">
         <table class="table">
             <thead>
+                <th>Grade</th>
                 <th>Level</th>
+                <th>Failstack Rate Added</th>
                 <th>Regular Attemps</th>
                 <th>Boost Attemps</th>
                 <th>Total Attemps</th>
@@ -44,7 +66,9 @@
             </thead>
             <tbody>
                 <tr *ngFor="let d of data">
-                    <th scope="col">{{d['level']}}</th>
+                    <th scope="col">{{d['grade']}}</th>
+                    <td>{{d['level']}}</td>
+                    <td>{{d['failstack']}} ({{d['failstack']*100| number: '.0-5'}})</td>
                     <td>{{d['regular']}}</td>
                     <td>{{d['boost taps']}}</td>
                     <td>{{d['total']}}</td>

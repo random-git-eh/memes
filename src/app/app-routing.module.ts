@@ -9,7 +9,7 @@ import { ErgKrComponent } from './erg-kr/erg-kr.component';
 const routes = [
   {path: '', component: ErgComponent},
   {path: 'erg', component: ErgComponent},
-  {path: 'erg-kr', compoonent: ErgKrComponent}
+  {path: 'erg-kr', component: ErgKrComponent}
 ]
 
 

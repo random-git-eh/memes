@@ -53,7 +53,7 @@ export class ErgComponent implements OnInit {
   }
 
   do_erg(roll: HTMLElement){
-    this.rng = Math.random();
+    this.rng = Number(Math.random().toFixed(3));
     console.log(this.rng);
     if (this.rng <= this.rate){
       this.result = 'SUCCESS';
@@ -72,7 +72,7 @@ export class ErgComponent implements OnInit {
       this.data.push(
         {'level': this.selected_level, 'regular': this.regular_taps, 'boost taps': this.boosted_taps, 'total': this.total_taps, 'DMFs': this.totalDmfs}
       )
-      console.log(this.data);
+      //console.log(this.data);
     }
   }
 

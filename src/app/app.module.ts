@@ -13,6 +13,7 @@ import { EchostoneComponent } from './echostone/echostone.component';
 import { ErgComponent } from './erg/erg.component';
 import { AppRoutingModule } from './app-routing.module';
 import { ErgKrComponent } from './erg-kr/erg-kr.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { ErgKrComponent } from './erg-kr/erg-kr.component';
     ErgKrComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule,
     BrowserAnimationsModule,
     BsDropdownModule.forRoot(),
